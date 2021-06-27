@@ -1,5 +1,5 @@
 # Resume
 <p align="center">
-  <img src="Bank_Verification.png">
+  <img src="PSX_20210627_135638.jpg">
   <br/>
 </p>
